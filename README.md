@@ -1,0 +1,1 @@
+# hackintosh-dell-G3-3590-opencore
